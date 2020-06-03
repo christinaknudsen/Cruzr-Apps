@@ -1,1 +1,1 @@
-Test apps on Cruzr
+Apps for Cruzr
