@@ -1,1 +1,1 @@
-Repository for test apps on Cruzr
+Test apps on Cruzr
