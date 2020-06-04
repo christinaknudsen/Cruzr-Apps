@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Light App</string>
+    <string name="app_name">Chris</string>
     <string name="light_off">Lys av</string>
-    <string name="light_on">Lys paa</string>
+    <string name="light_on">Lys pa</string>
     <string name="change_color">Endre farge</string>
+    <string name="degrees">Degrees</string>
+    <string name="hoyre">Hoyre</string>
+    <string name="ga_fremover">Fremover</string>
+    <string name="bakover">Bakover</string>
 </resources>
